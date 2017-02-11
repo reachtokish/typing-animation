@@ -108,8 +108,10 @@ body{
     right: auto;
 }
 .chat_row.chat_other .chat_text{
-    padding-right: 0px;
     padding-left: 70px;
+    padding-right: 0px;
+    right: 0;
+    left: auto;
 }
 .typing_gif{
     height: 30px;
